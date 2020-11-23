@@ -1,0 +1,10 @@
+@import "styles/colors.scss";
+@import "styles/common.scss";
+
+.RecipeList {
+  h3 {
+    border-bottom: 2px solid grey;
+  }
+  max-height: 80vh;
+  overflow-y: scroll;
+}

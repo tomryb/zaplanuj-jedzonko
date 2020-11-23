@@ -1,0 +1,12 @@
+@import "styles/colors.scss";
+@import "styles/common.scss";
+
+.Desktop {
+  flex: 1;
+  padding: 1rem;
+
+  font-size: 2rem;
+
+  color: $whiteColor;
+  background-color: $greyishTwoColor;
+}

@@ -1,0 +1,17 @@
+@import "styles/colors.scss";
+@import "styles/common.scss";
+
+.Logo {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Logo-word1 {
+  color: $whiteTwoColor;
+}
+
+.Logo-word2 {
+  color: $butterscotchColor;
+}

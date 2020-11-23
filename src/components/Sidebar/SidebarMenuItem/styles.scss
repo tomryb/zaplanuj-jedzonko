@@ -1,0 +1,14 @@
+@import "styles/colors.scss";
+@import "styles/common.scss";
+
+.SidebarMenuItem {
+  margin: .3rem;
+
+  cursor: pointer;
+  min-height: 1rem;
+  padding-left: .3rem;
+  border-left: .2rem solid transparent;
+  &:hover {
+    border-left: .2rem solid $defaultLinkColor;
+  }
+}
