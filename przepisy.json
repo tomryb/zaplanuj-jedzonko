@@ -1,0 +1,140 @@
+{
+    "Recipes": [
+        {
+            "id": "1",
+            "nazwa": "Jajecznica z serem i bekonem",
+            "skladniki": [
+                "100 g boczku wędzonego parzonego",
+                "1 średnia cebula",
+                "4 średnie pieczarki",
+                "6 jajek",
+                "6 pomidorków koktajlowych",
+                "100 g sera morskiego",
+                "pół pęczka szczypiorku",
+                "sól, pieprz do smaku"
+            ],
+            "przepis": "Boczek kroimy w plasterki lub paski i podsmażamy na patelni na złoty kolor. Dodajemy pokrojoną w kostkę cebulę oraz pokrojone w plasterki pieczarki, całość chwilę dusimy. Następnie wbijamy jajka, doprawiamy solą, pieprzem i dodajemy przekrojone na pół pomidorki. Jajecznicę mieszając podgrzewamy, aż jajka się zetną. Na koniec dodajemy pokrojonym w paseczki serem i przez krótką chwilę zapiekamy od góry, aż ser się rozpuści lub po prostu ser mieszamy z jajecznicą. Podajemy z pokrojonym szczypiorkiem."
+        },
+        {
+            "id": "2",
+            "nazwa": "Risotto z warzywami i kurczakiem",
+            "skladniki": [
+                "1 cebula",
+                "1 ząbek czosnku",
+                "1 pojedynczy filet z kurczaka",
+                "1/3 szklanki ryżu do risotto (arborio)",
+                "1/4 szklanki białego wina",
+                "1 czerwona papryka",
+                "200 g cukinii",
+                "przyprawy: po 1/3 łyżeczki: kurkumy, oregano, tymianku, papryki ostrej lub słodkiej",
+                "ok. 500 ml bulionu drobiowego",
+                "1/3 szklanki tartego parmezanu*",
+                "ok. 50 g gorgonzoli (opcjonalnie, ale warto dodać)",
+                "1 łyżka posiekanej natki lub garść pokrojonej rukoli",
+                "masło, oliwa extra vergine"
+            ],
+            "przepis": "W garnku na 1 łyżce oliwy zeszklić pokrojoną w kosteczkę cebulę oraz starty na tarce czosnek. Przesunąć je na bok garnka, a w wolne miejsce włożyć 1 łyżkę masła oraz pokrojonego w kosteczkę kurczaka, doprawić go solą oraz pieprzem i obsmażać przez około 3 minuty co chwilę mieszając. Dodać ryż i dokładnie go obsmażyć. Wlać wino i gotować przez kilkanaście sekund aż odparuje. Następnie dodać pokrojoną w kosteczkę paprykę i cukinię i smażyć razem przez około minutę. W międzyczasie dodać wszystkie przyprawy. Wlewać po około pół szklanki gorącego bulionu i gotować bez przykrycia od czasu do czasu mieszając przez około 15 minut. Dodać kolejną porcję bulionu gdy poprzednia będzie wchłonięta przez ryż. Na koniec ryż ma być ugotowany al dente. Odstawić z ognia, dodać posiekaną natkę lub pokrojoną na kawałki rukolę, 2/3 ilości tartego parmezanu, 2 łyżki masła oraz pokrojoną na kawałki gorgonzolę jeśli jej używamy, wymieszać. Wyłożyć na talerze, posypać resztą sera."
+        },
+        {
+            "id": "3",
+            "nazwa": "Zapiekanka ziemniaczana z mięsem",
+            "skladniki": [
+                "5-6 większych ziemniaków",
+                "200 dag wędzonego boczku",
+                "2 średnie cebule",
+                "700 dag mięsa mielonego wołowego",
+                "200 dag sera żółtego",
+                "mała śmietana 18%",
+                "ząbek czosnku",
+                "Olej",
+                "łyżeczka masła",
+                "Gałka muszkatołowa",
+                "papryka słodka",
+                "papryka ostra",
+                "Szczypiorek",
+                "sól i pieprz"
+            ],
+            "przepis": "Ziemniaki myjemy i gotujemy w mundurkach w osolonej wodzie. Na patelnię wlewamy olej i smażymy pokrojone w piórka cebule. Gdy się zeszkli dodajemy mięso mielone, przyprawiamy solą, pieprzem i smażymy, aż się zezłoci. Na końcu dodajemy przeciśnięty przez praskę czosnek, wszystko mieszamy i przekładamy do garnka. Na patelnię wrzucamy pokrojony w kosteczkę boczek i smażymy aż się zarumieni. Zdejmujemy z patelni i przekładamy do mięsa. Na tą samą patelnię wlewamy śmietanę, dodajemy szczpytę słodkiej i szczyptę ostrej papryki, szczyptę gałki muszkatołowej, sól i pieprz. Mieszamy ze śmietaną starając się dokładnie zdjąć smak ze spodu patelni (resztki smażonego wcześniej mięsa). Ziemniaki studzimy, obieramy ze skórki i kroimy w talarki. Blaszkę smarujemy masłem i układamy warstwami: ziemniaki, cienka warstwa śmietany, mięso i boczek, starty żółty ser. Pieczemy w piekarniku rozgrzanym do 180 stopni, około 40 min, aż ser się zezłoci. Przed końcem pieczenia posypujemy szczypiorkiem."
+        },
+        {
+            "id": "4",
+            "nazwa": "Ramen",
+            "skladniki": [
+                "BULION",
+                "1 kg kości wieprzowych",
+                "1 kg kości drobiowych (np. korpus kurczaka, indyka)",
+                "4 cebulki szalotki",
+                "10 cm korzenia imbiru",
+                "pół główki czosnku",
+                "2 marchewki",
+                "wodorosty/algi konbu - płat o wymiarach ok. 7 x 20 cm",
+                "ok. 80 - 100 ml japońskiego sosu sojowego (shoyu)",
+                "80 ml sake (wino ryżowe)",
+                "DODATKI",
+                "WOLNO GOTOWANA WIEPRZOWINA",
+                "30 g suszonych grzybów shitake",
+                "500 g świeżego makaronu ramen lub 220 g suszonego",
+                "dymka lub szczypiorek",
+                "6 jajek",
+                "przyprawa shichimi togarashi",
+                "prasowane glony (sushi nori)",
+                "OPCJONALNIE",
+                "kiełki fasoli",
+                "200 g bok choy (pak choy)",
+                "sezamowy olej chili"
+            ],
+            "przepis": "BULION Do dużego garnka włożyć kości wieprzowe i drobiowe. Całkowicie zalać je zimną wodą. Doprowadzić do wrzenia na dużym ogniu, następnie odcedzić, przepłukać zimną wodą i ponownie włożyć je do pustego garnka. Cebulki obrać z zewnętrznych łusek, umyć. Cebulki i czosnek rozgnieść dla uwolnienia soku, dodać do garnka z mięsem. Dodać pokrojony na plastry imbir oraz obraną i pokrojoną na kilka części marchewkę. Dodać zgrubnie opłukany glon konbu i zalać całość zimną wodą (około 2 litry, do przykrycia składników).  Zagotować na dużym ogniu, wyjąć konbu (nie będzie potrzebne), usunąć z wierzchu szumowinę jeśli się pojawi. Ustawić garnek na minimalnym palniku, zmniejszyć ogień do minimum. Gotować pod uchyloną pokrywą przez około 6 godzin. Po przestudzeniu wyjąć kości i przecedzić bulion przez sito. Ostudzić i odstawić do lodówki. DODATKI Dzień wcześniej namoczyć grzyby shitake: zalać ciepłą wodą i odstawić do namoczenia. Namoczone grzyby shitake pokroić i podsmażyć na oleju aż będą miękkie. Ugotować jajka (5 min. od zagotowania wody). Przygotować mięso wieprzowe (PRZEPIS). PRZYGOTOWANIE RAMEN Bulion przelać do garnka (wcześniej można zebrać część lub cały tłuszcz z wierzchu zimnej zupy). Dodać sos sojowy (na razie połowę ilości) oraz sake, zagotować, spróbować i w razie potrzeby dodawać stopniowo więcej sosu sojowego. Do misek włożyć ugotowany makaron, wlać bulion, ułożyć grzyby shitake, plaster mięsa z pieczeni, przepołowione ugotowane jajko, kawałek prasowanych glonów, posypać dymką lub szczypiorkiem i doprawić przyprawą shichimi togarashi.  Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany), kiełki fasoli i skropić olejem sezamowym chili. Im więcej składników, tym lepiej ;) Ramen to zupa z dużą ilością makaronu i dodatków w porównaniu z samym bulionem."
+        },
+        {
+            "id": "5",
+            "nazwa": "Naleśniki ze szpinakiem",
+            "skladniki": [
+                "SKŁADNIKI",
+                "4 - jajka",
+                "2 szklanki - mąki",
+                "1 szklanka - mleka",
+                "1 szklanka - wody",
+                "½ łyżeczki - soli",
+                "masło klarowane",
+                "BESZAMEL",
+                "1 łyżka - masła",
+                "2 łyżki - mąki",
+                "2 szklanki - mleka",
+                "ser żółty",
+                "1 szczypta - gałka muszkatołowa",
+                "NADZIENIE",
+                "400 g - mrożonego szpinaku",
+                "3 ząbki - czosnku",
+                "200 g - sera feta",
+                "1 łyżka - masła",
+                "sól",
+                "pieprz"
+            ],
+            "przepis": "Jajka wybić do miski, dodać sól, roztrzepać. Dosypać mąkę i wlać mleko (na przemian) i zmiksować. Gdy ciasto jest gładkie, rozcieńczyć wodą do konsystencji ciasta naleśnikowego (powinna być taka jak soku malinowego). Ciasto odstawić na 20-30 minut. Gdy zgęstnieje, znowu dolać odrobinę wody. Odstawić, by odpoczęło (naleśniki zrobią się bardziej plastyczne i nie będą się rwać). Usmażyć cienkie placki - na patelni o 24 cm średniZrobić farsz. Masło roztopić na patelni i wrzucić posiekany czosnek. Gdy lekko się podsmaży, wrzucić rozmrożony szpinak i mieszając poddusić, odparowując nadmiar wody. Dodać pokruszony ser feta i doprawić solą i pieprzem. Naleśniki posmarować farszem, boki zawinąć do środka i zwinąć rulony (podobnie jak krokiety). Ułożyć w wysmarowanej masłem żaroodpornej formie.Przygotować beszamel. W rondlu roztopić masło i zrobić jasną zasmażkę. Wlać mleko i zagotować. Doprawić solą, pieprzem i gałką muszkatołową, wrzucić starty na tarce żółty ser. Wymieszać.Naleśniki zalać beszamelem i wstawić do piekarnika nagrzanego do 180 st. C na 20-25 minut (grzałka górna)."
+        },
+        {
+            "id": "6",
+            "nazwa": "Sałatka ryżowa z tuńczykiem",
+            "skladniki": [
+                "100 g długoziarnistego ryżu",
+                "1 puszka z tuńczyka w oleju lub sosie własnym (ok. 150 g po odsączeniu)",
+                "1 puszka kukurydzy konserwowej (ok. 250 g po odsączeniu)",
+                "4 jajka",
+                "trochę zielonej cebulki lub szczypiorku",
+                "ok. 4 łyżek majonezu",
+                "sól, czarny pieprz mielony"
+            ],
+            "przepis": "Ryż ugotować w osolonej wodzie. (Ryż powinien być ugotowany na sypko, nie rozgotowany). Następnie dobrze odcedzić na sitku i pozostawić do ostygnięcia.Jajka ugotować na twardo, ostudzić, obrać ze skorupek i pokroić w kostkę.Tuńczyka i kukurydzę odsączyć.Ryż przełożyć do miski. Dodać odsączonego tuńczyka, kukurydzę i jajka. Dodać posiekaną zieloną cebulkę lub szczypiorek i majonezu do smaku (ok. 4 łyżek). Doprawić solą i pieprzem.Sałatkę można podawać od razu. Można ją również schłodzić w lodówce."
+        },
+        {
+            "id": "7",
+            "nazwa": "Filet z łososia z grilla",
+            "skladniki": [
+                "4 kawałki fileta z łososia ze skórką",
+                "sok z cytryny",
+                "sól, pieprz"
+            ],
+            "przepis": "Łososia nacieramy solą od strony skóry, kropimy sokiem cytrynowym po mięsie. Oprószamy solą i pieprzem i odstawiamy do lodówki na min. 2 godziny.ie. Smarujemy cienką warstwą oleju i układamy na rozgrzanym grillu skórą do dołu, a gdy się zrumieni, przekładamy na drugą stronę i dopiekamy. Razem około 10 minut w zależności od wielkości fileta.ie. Podajemy z sosem twarożkowo- koperkowym (twarożek ze śmietaną doprawiony koperkiem, solą i ewentualnie pieprzem)."
+        }
+    ]
+}

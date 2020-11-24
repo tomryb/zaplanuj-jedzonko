@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zaplanuj-jedzonko/static/css/main.a6731bb9.chunk.css",
+    "main.js": "/zaplanuj-jedzonko/static/js/main.85a16d58.chunk.js",
+    "main.js.map": "/zaplanuj-jedzonko/static/js/main.85a16d58.chunk.js.map",
+    "runtime-main.js": "/zaplanuj-jedzonko/static/js/runtime-main.5716dd7f.js",
+    "runtime-main.js.map": "/zaplanuj-jedzonko/static/js/runtime-main.5716dd7f.js.map",
+    "static/js/2.34ef0268.chunk.js": "/zaplanuj-jedzonko/static/js/2.34ef0268.chunk.js",
+    "static/js/2.34ef0268.chunk.js.map": "/zaplanuj-jedzonko/static/js/2.34ef0268.chunk.js.map",
+    "index.html": "/zaplanuj-jedzonko/index.html",
+    "precache-manifest.8ee1fe70e64b7158b42662fcc2fe31bd.js": "/zaplanuj-jedzonko/precache-manifest.8ee1fe70e64b7158b42662fcc2fe31bd.js",
+    "service-worker.js": "/zaplanuj-jedzonko/service-worker.js",
+    "static/css/main.a6731bb9.chunk.css.map": "/zaplanuj-jedzonko/static/css/main.a6731bb9.chunk.css.map",
+    "static/js/2.34ef0268.chunk.js.LICENSE.txt": "/zaplanuj-jedzonko/static/js/2.34ef0268.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5716dd7f.js",
+    "static/js/2.34ef0268.chunk.js",
+    "static/css/main.a6731bb9.chunk.css",
+    "static/js/main.85a16d58.chunk.js"
+  ]
+}
