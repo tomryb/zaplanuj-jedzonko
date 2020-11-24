@@ -23,6 +23,7 @@
     "connected-react-router": "^6.8.0",
     "date-fns": "1.30.1",
     "fork-ts-checker-webpack-plugin-alt": "0.4.14",
+    "gh-pages": "^3.1.0",
     "graphql": "^14.3.1",
     "i18next": "^19.8.1",
     "i18next-browser-languagedetector": "^6.0.1",
