@@ -57,10 +57,10 @@
     "typesafe-actions": "^5.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3002 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "start-build": "serve -s build -l 3000",
+    "start-build": "serve -s build -l 3002",
     "cosmos": "NODE_PATH=./src cosmos",
     "cosmos:export": "cosmos-export",
     "tslint": "tslint -p ./tsconfig.json",
