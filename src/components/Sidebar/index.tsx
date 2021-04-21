@@ -22,6 +22,8 @@ const Sidebar: React.FC<SidebarInterface> = (props) => {
         </SidebarMenuItem>
         <SidebarMenuItem name="Przepisy" url="recipes">
         </SidebarMenuItem>
+        <SidebarMenuItem name="Plany" url="plans">
+        </SidebarMenuItem>
         {/* <SidebarMenuItem name="Kontakt" url="desktop">
         </SidebarMenuItem> */}
       </Route>
